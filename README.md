@@ -1,2 +1,2 @@
-# gif
-its my first mini project
+# gif_creater 
+its my first mini project developed by python
